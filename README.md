@@ -49,8 +49,3 @@ A Jordanian business can use this tool to:
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
