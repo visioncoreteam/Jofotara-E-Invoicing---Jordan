@@ -1,13 +1,11 @@
-# Jordan Tax Service & JoFotara Integration
+# JoFotara Integration
 
-This repository contains code/documentation/tools related to integrating with **Jordan Tax Service** and the **JoFotara** national electronic invoicing system in Jordan. Below, you'll find an explanation of these entities and how they are used.
+This repository contains code/documentation/tools related to integrating with **JoFotara** national electronic invoicing system in Jordan. This app connects Manager.io with Jofotara eInvoice. It makes creating and sending electronic invoices easier and simpler.
+Please this link  to fo Live : [![JoFotara Live](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
 
 ## Table of Contents
 - [What is JoFotara?](#what-is-jofotara)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Video Demonstration](#video-demonstration)
 
 ---
 
@@ -26,26 +24,11 @@ This repository contains code/documentation/tools related to integrating with **
 
 JoFotara addresses Jordan’s previous lack of a unified invoicing system, simplifying tax reporting and reducing fraudulent practices.
 
----
+## Video Demonstration
 
-## Usage
+Watch this video to see how to set up and use the JoFotara integration in action:
 
-This project provides tools/code to integrate with the JoFotara system, enabling businesses to:
-1. **Generate Electronic Invoices**: Create invoices that comply with ISTD regulations.
-2. **Submit to JoFotara**: Send invoices to the JoFotara platform via API or manual upload.
-3. **Retrieve QR Codes**: Include ISTD-generated QR codes in invoices for verification.
-4. **Ensure Compliance**: Meet Jordan’s evolving e-invoicing mandates (e.g., Phase 2 starting April 2025).
+[![JoFotara Integration Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-### Example Use Case
-A Jordanian business can use this tool to:
-- Automate invoice creation in their ERP system.
-- Connect to JoFotara via API to submit invoices.
-- Receive and embed QR codes in customer invoices, ensuring tax compliance.
-
-### Prerequisites
-- A registered account with the JoFotara portal (required by May 2024 for B2G compliance).
-- API credentials or access to the JoFotara system (if applicable).
-- Basic understanding of Jordan’s tax regulations.
-
----
+*Click the thumbnail above to watch the full video on YouTube.*
 
