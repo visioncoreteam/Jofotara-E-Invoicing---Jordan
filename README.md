@@ -1,7 +1,7 @@
 # JoFotara Integration
 
 This repository contains code/documentation/tools related to integrating with **JoFotara** national electronic invoicing system in Jordan. This app connects Manager.io with Jofotara eInvoice. It makes creating and sending electronic invoices easier and simpler.
-Please this link  to go Live : **[Jofotara Live](https://jofotara.azurewebsites.net/)**
+Please this link  to go Live : **[Jofotara Live](https://jofotarago.azurewebsites.net/)**
 
 ## Table of Contents
 - [What is JoFotara?](#what-is-jofotara)
