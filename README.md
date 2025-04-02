@@ -28,7 +28,7 @@ JoFotara addresses Jordan’s previous lack of a unified invoicing system, simpl
 
 Watch this video to see how to set up and use the JoFotara integration in action:
 
-[![JoFotara Integration Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![JoFotara Integration Demo]](https://youtu.be/4OK_PtrVEcY)
 
 *Click the thumbnail above to watch the full video on YouTube.*
 
